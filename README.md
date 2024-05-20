@@ -68,12 +68,16 @@ Here we display some of the fingerprint images from the dataset, along with thei
 
 ### Classification output
 
-<img src="./doc/img1.png>
+<img src="./doc/img1.png">
 
 ### GRAD CAM output
 
-<img src="./doc/img2.png>
+<img src="./doc/img2.png">
 
 ## 📈 Performance
 
-The model achieves an accuracy rate as reported after training, which reflects its ability to generalize from the training data to unseen test data.
+The performance of the model after training is quantified by its accuracy and loss metrics. In the final testing phase, the model achieved an accuracy of 56.25% with a loss of 3.0189. This was observed during a single evaluation step, detailed as follows:
+
+```plaintext
+1/1 [==============================] - 1s 1s/step - loss: 3.0189 - accuracy: 0.5625
+```
