@@ -4,7 +4,7 @@ This repository contains a project for fingerprint matching using Convolutional 
 
 ## 🚀 Project Structure
 
-The project is structured into multiple scripts and folders, handling various stages of the machine learning pipeline, including data loading, preprocessing, model training, and evaluation.
+The project is structured into one Jupyter Notebook script and folders with images of fingerprints. Main script handling various stages of the machine learning pipeline, including data loading, preprocessing, model training, and evaluation.
 
 ### 📂 Code
 
