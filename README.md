@@ -14,18 +14,9 @@ The main code includes scripts for:
 - Defining and training the CNN model.
 - Evaluating the model's performance.
 
-```python
-# Example code snippet
-model = keras.Sequential([
-    layers.Conv2D(64, (3, 3), activation='relu', input_shape=(300, 300, 1)),
-    layers.MaxPooling2D(3, 3),
-    ...
-])
-```
-
 ## 📊 Data
 
-The data folder contains the FVC2002 fingerprint dataset, used for training and testing the model. This includes images processed and labeled based on fingerprint characteristics.
+The data folder contains the **FVC2002** fingerprint dataset, used for training and testing the model. This includes images processed and labeled based on fingerprint characteristics.
 
 ## 🔍 Model Overview
 
