@@ -49,6 +49,10 @@ model.summary()
 model.compile(optimizer=Adam(learning_rate=0.001), loss='categorical_crossentropy', metrics=['accuracy'])
 ```
 
+### CNN diagram
+
+<img src="./doc/img0.png">
+
 ## 🌐 Model Training
 
 Training involves 30 epochs where the model learns to minimize loss and improve accuracy over time.
