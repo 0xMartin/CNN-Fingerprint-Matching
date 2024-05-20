@@ -66,6 +66,8 @@ Training involves 30 epochs where the model learns to minimize loss and improve 
 
 Here we display some of the fingerprint images from the dataset, along with their predicted classes. You can see the model's predictions and their associated confidence levels.
 
+> **Images used from FVC2002 dataset**
+
 ### Classification output
 
 <img src="./doc/img1.png">
